@@ -1,0 +1,234 @@
+/* *****************1399 s**************** */
+@media (max-width:1399px) {
+    
+}
+/* *****************1399 e**************** */
+
+
+/* *****************1199 s**************** */
+@media (max-width:1199px) {
+    .about_single_box p {
+        padding: 0px 20px;
+    }
+    .s_n {
+        left: 92%;
+    }
+    .form .col-md-7 {
+        padding: 50px 50px;
+    }
+    .get_touch form input {
+        width: 70%;
+    }
+}
+/* *****************1199 e**************** */
+
+
+/* *****************991 s**************** */
+@media (max-width:991px) {
+    .nav_bar ul li {
+        margin: 0;
+        width: 100%;
+        border-bottom: 1px solid #ff00006f;
+        margin-bottom: 10px;
+    }
+    .nav_bar ul li:last-child {
+        border-bottom: 0;
+        text-align: center;
+        margin: 0;
+        margin: 1rem auto auto;
+    }
+    .logo {
+        width: 85%;
+    }
+    .btn_nav {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    .btn_hero {
+        padding: 14px 25px;
+        font-size: 18px;
+        border-radius: 3px;
+    }
+    .about_single_box h3 {
+        color: #232323;
+        font-size: 18px;
+    }
+    .about_single_box p {
+        padding: 0;
+    }
+    .approch_content {
+        padding: 70px 10px 70px 10px;
+    }
+    .step {
+        left: 50%;
+        transform: translateX(-50%);
+        top: -50px;
+    }
+    .step.s_n {
+        top: auto;
+        bottom: -50px;
+    }
+    .form .col-md-7 {
+        width: 90%;
+    }
+    .content_main h1 {
+        font-size: 40px;
+    }
+    .content_main p {
+        font-size: 25px;
+    }
+    .get_touch form input {
+        width: 80%;
+    }
+    .work_box i {
+        font-size: 30px;
+    }
+    .work_box h3 {
+        font-size: 25px;
+        margin: 5px 0;
+    }
+    .work_box p {
+        font-size: 16px;
+    }
+}
+/* *****************991 e**************** */
+
+
+/* *****************767 s**************** */
+@media (max-width:767px) {
+    .about_single_box {
+        border-bottom: 1px solid #ddd;
+        padding: 2rem 1rem;
+    }
+    .about_single_box h3 {
+        font-size: 2rem;
+    }
+    .form .col-md-7 {
+        width: 100%;
+    }
+    .get_touch form input {
+        width: 100%;
+    }
+    .work_box img {
+        height: 50vh;
+        margin-bottom: 1rem;
+    }
+    .col-md-3.work_bg {
+        height: 50vh;
+        margin-bottom: 1rem;
+    }
+    .work_box i {
+        font-size: 70px;
+    }
+    .work_box h3 {
+        font-size: 45px;
+    }
+    .work_box p {
+        font-size: 22px;
+    }
+    .work_bg:last-child {
+        margin: 0;
+    }
+    .btn_hero {
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+    .content_main h1 {
+        font-size: 45px;
+    }
+    .content_main p {
+        font-size: 22px;
+    }
+}
+/* *****************767 e**************** */
+
+
+/* *****************575 s**************** */
+@media (max-width:575px) {
+    .h_wrap {
+        display: block;
+        line-height: 2rem;
+    }
+    .navbar-brand {
+        width: 70%;
+        margin: 0;
+    }
+    .logo {
+        width: 65%;
+    }
+    .hero h1 {
+        font-size: 50px;
+    }
+    .hero p {
+        font-size: 30px;
+    }
+    .about_single_box h3 {
+        font-size: 25px;
+    }
+    .about_single_box p {
+        width: 95%;
+        margin: auto;
+    }
+    .content_main h1 {
+        font-size: 48px;
+    }
+    .content_main p {
+        font-size: 23px;
+    }
+    .step {
+        top: -50px;
+    }
+    .form .col-md-7 {
+        width: 98%;
+    }
+    .cross {
+        right: 0;
+    }
+    .form .col-md-7 {
+        border-top-right-radius: 10px;
+    }
+    .form .col-md-7 {
+        padding: 50px 25px;
+    }
+    .btn_submit {
+        padding: 12px 20px !important;
+    }
+    .content_main h1 {
+        font-size: 35px;
+    }
+    .content_main p {
+        font-size: 20px;
+    }
+    .get_touch h3 {
+        font-size: 40px;
+    }
+    .btn_subs {
+        padding: 12px 30px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    .work_box i {
+        font-size: 60px;
+    }
+    .work_box h3 {
+        font-size: 40px;
+    }
+    .work_box p {
+        font-size: 20px;
+    }
+    .btn_hero {
+        padding: 12px 12px;
+    }
+    .btn_hero {
+        padding: 12px 12px;
+        font-size: 16px;
+    }
+    .get_social_link ul li {
+        margin: 0 5px;
+    }
+    .form_head {
+        font-size: 26px;
+    }
+}
+/* *****************575 e**************** */
